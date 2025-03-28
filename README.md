@@ -1,6 +1,3 @@
-Here are some good lines you can use for your GitHub `README.md` to describe your Python self-learning journey:  
-
----
 
 # 🚀 Python Self-Learning Journey  
 
