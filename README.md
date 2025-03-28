@@ -20,6 +20,3 @@ Welcome to my Python learning repository! 🎯 As an IT professional with a Java
 
 💡 *Follow my progress, suggest improvements, or collaborate!*  
 
----  
-
-You can modify it based on your style and focus. Let me know if you need any changes! 🚀
